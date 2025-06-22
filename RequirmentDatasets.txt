@@ -1,0 +1,7 @@
+BOSTON : https://www.kaggle.com/datasets/altavish/boston-housing-dataset
+
+CREADITCARDFRAUD : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+IMDB (movies) : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+TITANIC : https://www.kaggle.com/datasets/yasserh/titanic-dataset
